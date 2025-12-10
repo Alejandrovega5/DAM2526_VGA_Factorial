@@ -6,6 +6,11 @@ public class Factorial {
 
 	private static Scanner sc = new Scanner(System.in);
 
+	private static long factorialBucle(int n) {
+		// TODO: crea tu el contenido de esta función... si eres capaz
+		// No soy capaz :(
+	}
+
 	public static void main(String[] args) {
 
 		System.out.print("Introduce un número entero mayor o igual que 0: ");
